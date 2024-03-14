@@ -1,3 +1,5 @@
+![logo-extented](/assets/logo-extented.png)
+
 # About SaveSync
 
 Welcome to SaveSync, a student-led project focused on developing a practical and efficient backup and restoration application. Our aim is to provide a solution that balances simplicity with functionality, catering to users who need a straightforward way to manage their data backup and restoration needs.
