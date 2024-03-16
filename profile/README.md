@@ -4,24 +4,32 @@
 
 # About SaveSync
 
-Welcome to SaveSync, a student-led project focused on developing a practical and efficient backup and restoration application. Our aim is to provide a solution that balances simplicity with functionality, catering to users who need a straightforward way to manage their data backup and restoration needs.
+SaveSync is a student-developed application designed to make data backup and restoration a breeze. We prioritize user-friendliness and functionality, aiming to be the perfect tool for anyone who needs a straightforward way to protect their valuable files.
 
-## Our Mission
+## Our Goals
 
-- __Educational Development:__ As a student project, our primary goal is to learn and apply principles of software development, data management, and user interface design.
-- __Functional Utility:__ We strive to create a tool that is genuinely useful for basic backup and restoration tasks, focusing on ease of use and reliability.
+- **Learning Through Development:** As a student project, SaveSync is a platform for us to learn and apply concepts of software development, data management, and user interface design.
+- **Creating a Usable Tool:** We strive to build a genuinely useful application for basic backup and restore tasks, focusing on simplicity and reliability.
 
-## Core Features of SaveSync
+## SaveSync Features
 
-- __Selective Backup and Restore:__ Allows users to choose specific files or directories for backup and restoration.
-- __User-Friendly Interface:__ A focus on creating an intuitive, easy-to-navigate interface that simplifies the backup and restore process.
+- **Secure Communication:** Connect to the server via SSL sockets, ensuring all data transfers are encrypted and protected.
+- **Selective Server Backup:**
+  - Browse and select specific folders on the server for backup.
+  - Choose individual files within folders for targeted backups.
+- **Restore from Backups:** Easily retrieve previous backups and restore your data when needed.
+- **Advanced Version Management:**
+  - Manage and track different backup versions.
+  - Restore specific versions of your data for granular control (depending on application features).
+- **Automatic Backups:** Schedule automatic backups of selected folders at regular intervals.
+  - This ensures your data is always protected without needing to remember to back up manually.
 
-## Ongoing Development
+## Continuous Improvement
 
 - __Iterative Improvements:__ We continuously work on improving SaveSync, incorporating feedback and new ideas into subsequent versions.
 - __Community Collaboration:__ Input from users and fellow developers is encouraged, helping us refine and enhance the application.
 
 ## Support and Collaboration
 
-- __Open to Feedback:__ We welcome suggestions, bug reports, and contributions from the community.
-- __Educational Resource:__ The project also serves as a resource for other students to learn from and contribute to.
+- __Share Your Thoughts:__ We welcome suggestions, bug reports, and contributions from the community.
+- __Educational Resource:__ SaveSync can also be a valuable resource for other students to learn from and contribute to open-source development.
