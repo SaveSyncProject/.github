@@ -24,9 +24,7 @@ SaveSync is a student-developed application designed to make data backup and res
 - **Automatic Backups:** Schedule automatic backups of selected folders at regular intervals.
   - This ensures your data is always protected without needing to remember to back up manually.
 
-<div align="center">
-  <img src="https://github.com/SaveSyncProject/.github/blob/main/assets/schema.png" width="600">
-</div>
+<img src="https://github.com/SaveSyncProject/.github/blob/main/assets/schema.png" width="600">
 
 ## Continuous Improvement
 
