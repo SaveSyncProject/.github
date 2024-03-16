@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/logo-extented.png" width="600">
+  <img src="https://github.com/SaveSyncProject/.github/blob/main/assets/logo-extented.png" width="600">
 </div>
 
 # About SaveSync
