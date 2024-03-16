@@ -1,4 +1,4 @@
-![logo-extented](/assets/logo-extented.png)
+<img src="assets/logo-extentend.png" width="600">
 
 # About SaveSync
 
