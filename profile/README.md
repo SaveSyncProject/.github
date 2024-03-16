@@ -1,4 +1,6 @@
-<img src="assets/logo-extented.png" width="600">
+<div align="center">
+  <img src="../assets/logo-extented.png" width="600">
+</div>
 
 # About SaveSync
 
