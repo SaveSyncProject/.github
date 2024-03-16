@@ -1,4 +1,4 @@
-<img src="assets/logo-extentend.png" width="600">
+<img src="assets/logo-extented.png" width="600">
 
 # About SaveSync
 
